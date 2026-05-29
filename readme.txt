@@ -1,6 +1,6 @@
 =============================================================
-CS4045 – Assignment #3: Topic Modeling & Sentiment Analysis
-Ayoob Haroon (20I-0777)
+Topic Modeling & Sentiment Analysis
+Ayoob Haroon 
 =============================================================
 
 Instructions to Reproduce Results
@@ -16,7 +16,7 @@ Instructions to Reproduce Results
      !pip install -q accelerate bitsandbytes
 
 2. Dataset:
-   - Download the dataset (FinancialPhraseBank-v1.0) from Google Classroom.
+   - Download the dataset (FinancialPhraseBank-v1.0).
    - Upload the ZIP file when prompted in the notebook, or place it in the same directory and adjust the file name in the code.
    - The script automatically unzips and loads Sentences_75Agree.txt.
 
@@ -49,5 +49,5 @@ Instructions to Reproduce Results
    - The results CSV is not separately saved but can be exported from the pandas DataFrames.
 
 7. Contact:
-   For any issues, refer to the assignment guidelines on GCR.
+   For any issues, ayoobharoon@gmail.com.
 =============================================================
